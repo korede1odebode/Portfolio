@@ -21,7 +21,7 @@ align-items: center;
 justify-content: flex-start;
 height: 17vh;
 list-style: none;
-font-size:1.5rem;
+font-size:2rem;
 gap: 10rem 
 
 }
@@ -116,12 +116,7 @@ a:hover{
     transform: none;
   }
   
-  section {
-    padding-top: 4vh;
-    margin: 0 10rem;
-    box-sizing: border-box;
-    min-height: fit-content;
-  }
+
 
 #hero-section{
     display: flex;
@@ -133,6 +128,22 @@ a:hover{
     height: 400px;
     border-radius:50% ;
 }
-.title{
-    font-size: 15rem;
+.text{
+    text-align:left;
 }
+.title{
+    font-size: 10rem;
+    color:#2f2624
+}
+.title2{
+    font-size: 4rem;
+    color:#2f2624
+}
+.title:hover{
+    cursor: default;
+}
+.title2:hover{
+    cursor: default;
+}
+
+
