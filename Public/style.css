@@ -5,5 +5,4 @@ background-color:#d6d2cc
 .flex-container{
 display: flex;
 flex-direction: row;
-gap: 100px;
 }
